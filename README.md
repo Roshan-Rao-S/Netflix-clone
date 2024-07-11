@@ -52,6 +52,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 #screenshot
-<img src="ss.png">
+<img src="ss.png" alt="screenshot" width="500" height="600">
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
