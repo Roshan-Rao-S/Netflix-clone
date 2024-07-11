@@ -14,7 +14,7 @@ This is a static Netflix clone created using only HTML and CSS. The project aims
 
 ## Demo
 
-![Netflix Clone Screenshot](path/to/screenshot.png)
+![Netflix Clone Screenshot](ss.png)
 
 ## Features
 
@@ -51,7 +51,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-#screenshot
-<img src="ss.png" alt="screenshot" >
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
